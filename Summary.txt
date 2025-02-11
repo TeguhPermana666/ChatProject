@@ -1,0 +1,17 @@
+Summary for user1:
+{
+    "summary": "The user greeted the bot and asked how it was. The bot responded that it was doing well and inquired about the user's well-being. The user asked the bot for its name, to which it replied that it is a virtual assistant without a name. The user then asked the bot to tell a joke, and the bot shared a funny story about a man getting burned by hot siomay. Finally, the user said goodbye, and the bot wished them a safe journey and expressed hope for another meeting in the future.",
+    "user": "user1"
+}
+
+Summary for user2:
+{
+    "summary": "The user greeted the bot and asked about its capabilities. The bot explained that it is a virtual assistant that can provide information, answer questions, offer advice, and perform tasks online. The user inquired about the bot's hobbies, to which the bot replied that as an AI, it doesn't have personal hobbies but is there to assist with various matters. The user then asked about the weather, but the bot couldn't give real-time weather updates. Finally, the conversation ended with the user saying goodbye and the bot wishing them a pleasant day and inviting them to return if they have more questions.",
+    "user": "user2"
+}
+
+Summary for user3:
+{
+    "summary": "Pengguna bertanya tentang model U-Net dan meminta contoh kode arsitektur U-Net dalam Python. Bot memberikan penjelasan mengenai model U-Net serta memberikan contoh kode arsitektur U-Net menggunakan library Keras. Pengguna juga meminta fakta menarik tentang segmentasi, di mana bot memberikan informasi terkait kegunaan dan manfaat segmentasi dalam berbagai bidang. Akhirnya, pengguna mengucapkan selamat tinggal dan bot memberikan ucapan selamat tinggal dan menyatakan kesiapan membantu di masa depan.",
+    "user": "user3"
+}

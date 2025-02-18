@@ -1,22 +1,130 @@
 [
     {
         "message": "Halo! Bagaimana harimu?",
-        "response": "Halo! Saya bot, jadi saya tidak memiliki perasaan. Bagaimana saya bisa membantu Anda hari ini?"
+        "response": "No response found"
     },
     {
         "message": "Apa perbedaan utama antara Machine Learning dan Deep Learning?",
-        "response": "Meskipun Machine Learning dan Deep Learning keduanya merupakan cabang dari kecerdasan buatan (AI), mereka memiliki perbedaan utama dalam hal cara algoritma belajar dan bentuk data yang mereka proses. Berikut adalah perbedaan utama antara Machine Learning dan Deep Learning:\n\n1. Representasi data:\n   - Machine Learning sering menggunakan representasi data yang bersifat linear atau non-linear seperti decision trees, support vector machines, atau logistic regression.\n   - Deep Learning menggunakan representasi data yang lebih kompleks dalam bentuk neural networks yang terdiri dari banyak lapisan (layer) yang memungkinkan untuk pembelajaran tingkat abstraksi yang lebih tinggi.\n\n2. Hierarki learning:\n   - Machine Learning cenderung bertumpu pada pembelajaran yang lebih dangkal dan tidak terstruktur yang dirancang untuk menangani data dengan dimensi rendah hingga menengah.\n   - Deep Learning biasanya dipilih untuk tugas pembelajaran yang mendalam dan kompleks yang melibatkan data yang sangat besar dan kompleks, seperti pengenalan wajah, bahasa alami, dan pemrosesan gambar.\n\n3. Pengolahan data:\n   - Machine Learning memiliki ketergantungan pada fitur yang dipilih secara manual dan merupakan bagian esensial dari proses pembelajarannya.\n   - Deep Learning mampu melakukan ekstraksi ciri fitur secara otomatis dari data yang mentah, yang berarti tidak perlu ada ketergantungan pada fitur yang dipilih secara manual.\n\n4. Kebutuhan komputasi:\n   - Deep Learning membutuhkan kinerja komputasi yang sangat besar untuk melatih neural networks yang dalam, sehingga membutuhkan jauh lebih banyak sumber daya komputasi dibandingkan dengan Machine Learning tradisional.\n   - Machine Learning dapat berjalan dengan komputasi yang lebih sederhana dan ringan, sehingga lebih mudah diterapkan dalam skala kecil atau tengah."
+        "response": "No response found"
     },
     {
         "message": "Bagaimana cara kerja backpropagation dalam neural network?",
-        "response": "Backpropagation adalah algoritma pelatihan yang digunakan dalam jaringan saraf (neural network) untuk mengoptimalkan bobot dan bias agar jaringan saraf dapat belajar dari data latihan dengan baik. Berikut adalah langkah-langkah cara kerja backpropagation dalam neural network:\n\n1. Inisialisasi bobot dan bias: Bobot dan bias untuk setiap lapisan jaringan saraf diinisialisasi secara acak pada awalnya.\n\n2. Forward propagation: Data latihan dimasukkan ke dalam jaringan saraf dan melewati setiap lapisan secara berturut-turut mulai dari input layer, melalui hidden layers, hingga mencapai output layer. Kalkulasi dilakukan dengan mengalikan bobot dengan input dan menambahkan bias, dan kemudian diteruskan melalui fungsi aktivasi pada setiap neuron.\n\n3. Mengukur error: Dengan output yang dihasilkan dari proses forward propagation, diukur error antara output yang dihasilkan dengan output yang seharusnya berdasarkan data latihan.\n\n4. Backward propagation: Error yang diukur kemudian ditransmisikan ke belakang melalui jaringan saraf untuk mengoptimalkan bobot dan bias. Langkah ini biasanya melibatkan perhitungan gradien dari fungsi error terhadap bobot dan bias.\n\n5. Update bobot dan bias: Bobot dan bias pada setiap neuron diperbarui dengan mengurangi gradien fungsi error terhadap bobot dan bias, dikalikan dengan tingkat pembelajaran (learning rate).\n\n6. Iterasi: Proses forward dan backward propagation dilakukan secara berulang-ulang dengan mengulangi langkah-langkah di atas hingga model jaringan saraf mencapai tingkat akurasi yang diinginkan atau hingga iterasi konvergen.\n\nDengan cara kerja backpropagation ini, jaringan saraf dapat belajar dari data latihan dan mengoptimalkan bobot dan biasnya sehingga output yang dihasilkan semakin mendekati target yang diinginkan."
+        "response": "No response found"
     },
     {
         "message": "Dapatkah kamu menjelaskan konsep transfer learning dengan contoh nyata?",
-        "response": "Transfer learning adalah sebuah teknik dalam machine learning dimana model yang sudah dilatih untuk melakukan tugas tertentu di-transfer dan disesuaikan untuk melakukan tugas lain yang serupa atau berbeda. \n\nContoh nyata dari transfer learning adalah penggunaan model yang sudah dilatih untuk mengenali gambar pada dataset ImageNet untuk melakukan klasifikasi gambar angka tulisan tangan. Dalam hal ini, model yang sudah dilatih untuk mengenali objek pada dataset ImageNet dapat digunakan sebagai model awal dan kemudian disesuaikan dengan dataset angka tulisan tangan yang relatif lebih kecil. Dengan transfer learning, model dapat melakukan tugas klasifikasi angka tulisan tangan dengan lebih baik dan dengan waktu yang lebih efisien daripada jika harus memulai pelatihan dari awal."
+        "response": "No response found"
     },
     {
         "message": "Terima kasih atas penjelasannya, sampai jumpa!",
-        "response": "Sama-sama, semoga penjelasan saya bermanfaat. Sampai jumpa lagi!"
+        "response": "No response found"
+    },
+    {
+        "message": "Halo! Bagaimana harimu?",
+        "response": "No response found"
+    },
+    {
+        "message": "Apa perbedaan utama antara Machine Learning dan Deep Learning?",
+        "response": "No response found"
+    },
+    {
+        "message": "Bagaimana cara kerja backpropagation dalam neural network?",
+        "response": "No response found"
+    },
+    {
+        "message": "Dapatkah kamu menjelaskan konsep transfer learning dengan contoh nyata?",
+        "response": "No response found"
+    },
+    {
+        "message": "Terima kasih atas penjelasannya, sampai jumpa!",
+        "response": "No response found"
+    },
+    {
+        "message": "Halo! How Are You Today?",
+        "response": "No response found"
+    },
+    {
+        "message": "Apa perbedaan utama antara Machine Learning dan Deep Learning?",
+        "response": "No response found"
+    },
+    {
+        "message": "Bagaimana cara kerja backpropagation dalam neural network?",
+        "response": "No response found"
+    },
+    {
+        "message": "Dapatkah kamu menjelaskan konsep transfer learning dengan contoh nyata?",
+        "response": "No response found"
+    },
+    {
+        "message": "Terima kasih atas penjelasannya, sampai jumpa!",
+        "response": "No response found"
+    },
+    {
+        "message": "Halo! How Are You Today?",
+        "response": "No response found"
+    },
+    {
+        "message": "Apa perbedaan utama antara Machine Learning dan Deep Learning?",
+        "response": "No response found"
+    },
+    {
+        "message": "Bagaimana cara kerja backpropagation dalam neural network?",
+        "response": "No response found"
+    },
+    {
+        "message": "Dapatkah kamu menjelaskan konsep transfer learning dengan contoh nyata?",
+        "response": "No response found"
+    },
+    {
+        "message": "Terima kasih atas penjelasannya, sampai jumpa!",
+        "response": "No response found"
+    },
+    {
+        "message": "Halo! How are you?",
+        "response": "Error contacting Claude API"
+    },
+    {
+        "message": "Apa perbedaan ML dan DL?",
+        "response": "Error contacting Claude API"
+    },
+    {
+        "message": "Terima kasih!",
+        "response": "Error contacting Claude API"
+    },
+    {
+        "message": "Halo! How are you?",
+        "response": "Hello! As an AI language model, I don't have personal experiences or emotions, but I'm here to assist you to the best of my capabilities. I'll be happy to provide helpful information while being mindful of respecting intellectual property rights. If you have any specific task or query, please feel free to ask, and I'll do my best to assist you responsibly."
+    },
+    {
+        "message": "Apa perbedaan ML dan DL?",
+        "response": "Machine Learning (ML) dan Deep Learning (DL) merupakan cabang dari Artificial Intelligence (AI), namun terdapat beberapa perbedaan di antara keduanya:\n\n1. Struktur Algoritma:\n   - Machine Learning menggunakan algoritma yang lebih sederhana dan tidak terlalu kompleks.\n   - Deep Learning menggunakan algoritma yang lebih kompleks dengan banyak lapisan (layers"
+    },
+    {
+        "message": "Terima kasih!",
+        "response": "Sama-sama! Senang dapat membantu."
+    },
+    {
+        "message": "Halo! How are you?",
+        "response": "Error contacting Claude API"
+    },
+    {
+        "message": "Apa perbedaan ML dan DL?",
+        "response": "Error contacting Claude API"
+    },
+    {
+        "message": "Terima kasih!",
+        "response": "Error contacting Claude API"
+    },
+    {
+        "message": "Halo! How are you?",
+        "response": "\u274c Unauthorized: API Key tidak valid atau expired."
+    },
+    {
+        "message": "Apa perbedaan ML dan DL?",
+        "response": "\u274c Unauthorized: API Key tidak valid atau expired."
+    },
+    {
+        "message": "Terima kasih!",
+        "response": "\u274c Unauthorized: API Key tidak valid atau expired."
     }
 ]

@@ -1,0 +1,38 @@
+[
+    {
+        "message": "Halo, saya Manda. Bisa bantu saya?",
+        "response": "Resepsionis: Tentu, Manda. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Ya, tentu. Boleh saya tahu jam berapa Anda ingin memesan layanan spa besok sore?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Tentu, Manda. Saya akan segera memeriksa pesanan layanan spa Anda. Mohon tunggu sebentar ya."
+    },
+    {
+        "message": "Halo, saya Manda. Bisa bantu saya?",
+        "response": "Resepsionis: Tentu, Manda. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, Manda. Boleh saya tahu jam berapa Anda ingin memesan layanan spa besok sore?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Tentu, Manda. Maafkan saya sebentar, saya akan segera memeriksa pesanan layanan spa Anda."
+    },
+    {
+        "message": "Halo, saya Manda. Bisa bantu saya?",
+        "response": "Resepsionis: Tentu, Manda. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, Manda. Boleh saya tahu jam berapa Anda ingin memesan layanan spa besok sore?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Tentu, Manda. Maafkan saya sebentar, saya akan segera memeriksa pesanan layanan spa Anda."
+    }
+]

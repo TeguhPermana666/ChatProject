@@ -1,0 +1,38 @@
+[
+    {
+        "message": "Halo, saya Teguh. Bisa bantu saya?",
+        "response": "Resepsionis: Halo, Teguh. Tentu, saya siap membantu. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, Teguh. Anda ingin memesan layanan spa untuk besok sore. Apakah telah memiliki preferensi tertentu atau paket yang ingin Anda pilih?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Selamat sore, Teguh. Saya akan segera cek apakah pesanan layanan spa Anda sudah masuk atau belum. Permintaan Anda sudah tercatat, terima kasih."
+    },
+    {
+        "message": "Halo, saya Teguh. Bisa bantu saya?",
+        "response": "Resepsionis: Halo, Teguh. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, sudah saya catatkan pesanan layanan spa untuk besok sore, Teguh. Apakah ada preferensi tertentu atau paket yang ingin Anda pilih?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Selamat sore, Teguh. Saya akan segera cek apakah pesanan layanan spa Anda sudah masuk atau belum. Permintaan Anda sudah tercatat, terima kasih."
+    },
+    {
+        "message": "Halo, saya Teguh. Bisa bantu saya?",
+        "response": "Resepsionis: Halo, Teguh. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Halo, Teguh. Tentu, saya siap membantu. Anda ingin memesan layanan spa untuk besok sore. Apakah telah memiliki preferensi tertentu atau paket yang ingin Anda pilih?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Selamat sore, Teguh. Saya akan segera cek apakah pesanan layanan spa Anda sudah masuk atau belum. Terima kasih telah memberikan informasinya."
+    }
+]

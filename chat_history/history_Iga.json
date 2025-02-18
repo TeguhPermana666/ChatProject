@@ -1,0 +1,38 @@
+[
+    {
+        "message": "Halo, saya Iga. Bisa bantu saya?",
+        "response": "Resepsionis: Selamat datang, Iga! Tentu saja, saya siap membantu Anda. Ada yang bisa saya bantu?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, Iga! Saya akan mencatat pesanan Anda untuk layanan spa besok sore. Apakah ada preferensi tertentu yang ingin Anda sertakan?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Selamat siang, Iga! Ya, pesanan layanan spa Anda untuk besok sore sudah tercatat. Apakah ada yang lain yang bisa saya bantu?"
+    },
+    {
+        "message": "Halo, saya Iga. Bisa bantu saya?",
+        "response": "Resepsionis: Selamat pagi, Iga! Tentu, silakan katakan bagaimana saya bisa membantu Anda hari ini?"
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, Iga. Saya akan mencatat pesanan Anda untuk layanan spa besok sore. Apakah ada preferensi tertentu yang ingin Anda sertakan?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Selamat sore, Iga! Ya, pesanan layanan spa Anda untuk besok sore sudah tercatat. Apakah ada yang lain yang bisa saya bantu?"
+    },
+    {
+        "message": "Halo, saya Iga. Bisa bantu saya?",
+        "response": "Resepsionis: Selamat malam, Iga! Tentu, silakan sampaikan apa yang dapat saya bantu hari ini."
+    },
+    {
+        "message": "Saya ingin memesan layanan spa untuk besok sore.",
+        "response": "Resepsionis: Tentu, Iga. Saya akan mencatat pesanan Anda untuk layanan spa besok sore. Apakah ada preferensi tertentu yang ingin Anda sertakan?"
+    },
+    {
+        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
+        "response": "Resepsionis: Selamat pagi, Iga! Ya, pesanan layanan spa Anda untuk besok sore sudah tercatat. Apakah ada yang lain yang bisa saya bantu?"
+    }
+]

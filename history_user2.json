@@ -1,130 +1,22 @@
 [
     {
-        "message": "Hai, saya ingin memahami lebih lanjut tentang pemrosesan bahasa alami.",
-        "response": "No response found"
+        "message": "Hallo, Dalam percakapan ini selalu awali dengan kata Bro",
+        "response": "Bro, apa kabar? Sudah lama tidak ketemu nih. Gimana keadaanmu?"
     },
     {
         "message": "Apa itu word embeddings dan mengapa mereka penting?",
-        "response": "No response found"
+        "response": "Word embeddings adalah representasi vektor dari kata-kata dalam teks yang dimasukkan ke dalam model pembelajaran mesin. Representasi ini memungkinkan komputer untuk memahami hubungan antara kata-kata berdasarkan konteks dan makna mereka.\n\nWord embeddings penting karena mereka meningkatkan kinerja model pembelajaran mesin dalam tugas-tugas seperti analisis sentimen, deteksi kesamaan dokumen, dan terjemahan bahasa. Dengan menggunakan word embeddings, model dapat mengenali makna kata-kata dalam konteks yang lebih luas, serta menangkap hubungan semantik antara kata-kata.\n\nSelain itu, word embeddings juga membantu mengatasi masalah dimensi dalam pemrosesan bahasa alami, dengan mengurangi jumlah fitur atau variabel yang diperlukan dalam pemodelan. Hal ini membuat model pembelajaran mesin lebih efisien dan meningkatkan kinerjanya dalam berbagai tugas pemrosesan bahasa alami."
     },
     {
         "message": "Bisakah kamu menjelaskan arsitektur Transformer secara singkat?",
-        "response": "No response found"
+        "response": "Transformer adalah salah satu model arsitektur yang populer dalam bidang Natural Language Processing (NLP). Arsitektur ini dikembangkan oleh Google pada tahun 2017 dan telah berhasil memecahkan berbagai masalah dalam pemrosesan bahasa alami.\n\nTransformer terdiri dari dua bagian utama, yaitu encoder dan decoder. Encoder bertanggung jawab untuk mengubah input teks menjadi representasi vektor yang mengandung informasi tentang kata-kata dan hubungannya. Sedangkan decoder bertugas untuk menghasilkan output berdasarkan representasi vektor yang telah dihasilkan oleh encoder.\n\nTransformer menggunakan mekanisme attention yang memungkinkan model untuk fokus pada bagian penting dari input selama proses encoding dan decoding. Dengan adanya mekanisme attention ini, Transformer mampu mengatasi masalah yang dihadapi oleh model sebelumnya, seperti Long Short-Term Memory (LSTM) dan Recurrent Neural Network (RNN).\n\nDengan kekuatan arsitektur yang fleksibel dan kemampuan parallelisasi yang tinggi, Transformer telah digunakan secara luas dalam berbagai aplikasi NLP, termasuk terjemahan bahasa, pertanyaan jawaban, dan generasi teks."
     },
     {
         "message": "Bagaimana ChatGPT bisa memahami konteks dalam percakapan?",
-        "response": "No response found"
+        "response": "ChatGPT menggunakan teknologi pemrosesan bahasa alami yang canggih untuk memahami konteks dalam percakapan. Ini dilakukan dengan menganalisis kata-kata, frase, dan pola kalimat yang digunakan dalam percakapan untuk memahami maksud dan konteks dari pertanyaan atau pernyataan yang diberikan. Selain itu, ChatGPT juga dapat menggunakan konteks dari percakapan sebelumnya untuk memberikan respon yang lebih baik dan relevan. Ini memungkinkan ChatGPT untuk berinteraksi secara lebih alami dan mengerti percakapan dengan lebih baik."
     },
     {
         "message": "Sampai jumpa, terima kasih!",
-        "response": "No response found"
-    },
-    {
-        "message": "Hai, saya ingin memahami lebih lanjut tentang pemrosesan bahasa alami.",
-        "response": "No response found"
-    },
-    {
-        "message": "Apa itu word embeddings dan mengapa mereka penting?",
-        "response": "No response found"
-    },
-    {
-        "message": "Bisakah kamu menjelaskan arsitektur Transformer secara singkat?",
-        "response": "No response found"
-    },
-    {
-        "message": "Bagaimana ChatGPT bisa memahami konteks dalam percakapan?",
-        "response": "No response found"
-    },
-    {
-        "message": "Sampai jumpa, terima kasih!",
-        "response": "No response found"
-    },
-    {
-        "message": "Hai, saya ingin memahami lebih lanjut tentang pemrosesan bahasa alami.",
-        "response": "No response found"
-    },
-    {
-        "message": "Apa itu word embeddings dan mengapa mereka penting?",
-        "response": "No response found"
-    },
-    {
-        "message": "Bisakah kamu menjelaskan arsitektur Transformer secara singkat?",
-        "response": "No response found"
-    },
-    {
-        "message": "Bagaimana ChatGPT bisa memahami konteks dalam percakapan?",
-        "response": "No response found"
-    },
-    {
-        "message": "Sampai jumpa, terima kasih!",
-        "response": "No response found"
-    },
-    {
-        "message": "Hai, saya ingin memahami lebih lanjut tentang pemrosesan bahasa alami.",
-        "response": "No response found"
-    },
-    {
-        "message": "Apa itu word embeddings dan mengapa mereka penting?",
-        "response": "No response found"
-    },
-    {
-        "message": "Bisakah kamu menjelaskan arsitektur Transformer secara singkat?",
-        "response": "No response found"
-    },
-    {
-        "message": "Bagaimana ChatGPT bisa memahami konteks dalam percakapan?",
-        "response": "No response found"
-    },
-    {
-        "message": "Sampai jumpa, terima kasih!",
-        "response": "No response found"
-    },
-    {
-        "message": "Apa itu NLP?",
-        "response": "Error contacting Claude API"
-    },
-    {
-        "message": "Bagaimana ChatGPT memahami konteks?",
-        "response": "Error contacting Claude API"
-    },
-    {
-        "message": "Sampai jumpa!",
-        "response": "Error contacting Claude API"
-    },
-    {
-        "message": "Apa itu NLP?",
-        "response": "NLP atau Natural Language Processing adalah cabang dari kecerdasan buatan (AI) dan linguistik komputasi yang berfokus pada pengembangan sistem yang dapat memahami dan menghasilkan bahasa alami seperti bahasa manusia.\n\nTujuan utama NLP adalah untuk membuat komputer dapat memahami, menginterpretasikan, dan memanipulasi bahasa alami seperti manusia."
-    },
-    {
-        "message": "Bagaimana ChatGPT memahami konteks?",
-        "response": "Saya menggunakan teknik pembelajaran mendalam (deep learning) dan pemrosesan bahasa alami (natural language processing/NLP) untuk memahami konteks pembicaraan. Beberapa kunci bagaimana saya melakukannya:\n\n1. Analisis semantik - Saya menganalisis makna kata-kata dan strukturnya, bukan hanya mencocokkan kata secara harfiah."
-    },
-    {
-        "message": "Sampai jumpa!",
-        "response": "Sampai jumpa! Semoga hari Anda menyenangkan."
-    },
-    {
-        "message": "Apa itu NLP?",
-        "response": "Error contacting Claude API"
-    },
-    {
-        "message": "Bagaimana ChatGPT memahami konteks?",
-        "response": "Error contacting Claude API"
-    },
-    {
-        "message": "Sampai jumpa!",
-        "response": "Error contacting Claude API"
-    },
-    {
-        "message": "Apa itu NLP?",
-        "response": "\u274c Unauthorized: API Key tidak valid atau expired."
-    },
-    {
-        "message": "Bagaimana ChatGPT memahami konteks?",
-        "response": "\u274c Unauthorized: API Key tidak valid atau expired."
-    },
-    {
-        "message": "Sampai jumpa!",
-        "response": "\u274c Unauthorized: API Key tidak valid atau expired."
+        "response": "Selamat tinggal, semoga harimu menyenangkan!"
     }
 ]

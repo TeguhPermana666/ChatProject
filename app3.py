@@ -1,50 +1,43 @@
-import requests
 import os
-import json
 from dotenv import load_dotenv
 from flask import Flask, request, jsonify
-
+from anthropic import Anthropic
+import json
+# Memuat variabel lingkungan dari file .env
 load_dotenv()
 
+# Ambil API key dari variabel lingkungan
 API_KEY = os.getenv("ANTHROPIC_API_KEY")
-API_URL = "https://api.anthropic.com/v1/messages"
 
-if not API_KEY:
+if API_KEY is None:
     raise ValueError("❌ API Key tidak ditemukan! Pastikan sudah diatur dalam .env atau environment.")
 
+client = Anthropic(api_key=API_KEY)
 app = Flask(__name__)
 
 # Fungsi untuk mendapatkan respons dari Claude API
 def get_response_from_anthropic(prompt):
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json",
-        "anthropic-version": "2023-06-01"
-    }
-    data = {
-        "model": "claude-3-sonnet-20240229",
-        "max_tokens": 100,
-        "messages": [{"role": "user", "content": prompt}]
-    }
-
     try:
-        response = requests.post(API_URL, headers=headers, json=data)
-        
-        # Jika respons error, tampilkan pesan
-        if response.status_code == 401:
-            return "❌ Unauthorized: API Key tidak valid atau expired."
-        if response.status_code != 200:
-            return f"❌ Error: {response.status_code} - {response.text}"
-
-        response_data = response.json()
-        print(f"Full API Response: {json.dumps(response_data, indent=2)}")  # Debugging log
-        
-        # Periksa struktur data respons dari Claude API
-        if "content" in response_data and isinstance(response_data["content"], list):
-            return response_data["content"][0].get("text", "No response found")
-        return "No response found"
-    except requests.RequestException as e:
-        print(f"Error calling API: {str(e)}")
+        response = client.messages.create(
+            model="claude-3-5-sonnet-20241022",  
+            max_tokens=1000,
+            temperature=0,
+            system="You are a world-class poet. Respond only with short poems.",
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": prompt
+                        }
+                    ]
+                }
+            ]
+        )
+        return response.content[0]["text"]
+    except Exception as e:
+        print(f"Error: {str(e)}")
         return "Error contacting Claude API"
 
 # Fungsi untuk menyimpan dan mengambil riwayat chat

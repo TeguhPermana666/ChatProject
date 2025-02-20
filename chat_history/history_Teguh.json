@@ -1,38 +1,50 @@
 [
     {
-        "message": "Halo, saya Teguh. Bisa bantu saya?",
-        "response": "Resepsionis: Halo, Teguh. Tentu, saya siap membantu. Ada yang bisa saya bantu?"
+        "message": "Selamat siang, saya Teguh. Saya ingin memesan layanan spa untuk relaksasi.",
+        "response": "Selamat siang, Teguh. Tentu, saya akan bantu Anda untuk memesan layanan spa untuk relaksasi. Apakah Anda memiliki preferensi tertentu atau pilihan waktu khusus?"
     },
     {
-        "message": "Saya ingin memesan layanan spa untuk besok sore.",
-        "response": "Resepsionis: Tentu, Teguh. Anda ingin memesan layanan spa untuk besok sore. Apakah telah memiliki preferensi tertentu atau paket yang ingin Anda pilih?"
+        "message": "Apakah spa tersebut termasuk paket pijat dan facial?",
+        "response": "Ya, spa kami menyediakan paket yang meliputi pijat dan facial. Apakah Anda tertarik dengan paket tersebut, Teguh?"
     },
     {
-        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
-        "response": "Resepsionis: Selamat sore, Teguh. Saya akan segera cek apakah pesanan layanan spa Anda sudah masuk atau belum. Permintaan Anda sudah tercatat, terima kasih."
+        "message": "Mohon konfirmasi jadwal dan harga layanan spa saya.",
+        "response": "Tentu, saya akan segera memeriksa jadwal dan harga layanan spa untuk Anda, Teguh. Mohon tunggu sebentar ya."
     },
     {
-        "message": "Halo, saya Teguh. Bisa bantu saya?",
-        "response": "Resepsionis: Halo, Teguh. Ada yang bisa saya bantu?"
+        "message": "Selamat siang, saya Teguh. Saya ingin memesan layanan spa untuk relaksasi.",
+        "response": "Selamat siang, Teguh. Saya akan bantu Anda dalam memesan layanan spa untuk relaksasi. Apakah Anda memiliki preferensi tertentu atau pilihan waktu khusus?"
     },
     {
-        "message": "Saya ingin memesan layanan spa untuk besok sore.",
-        "response": "Resepsionis: Tentu, sudah saya catatkan pesanan layanan spa untuk besok sore, Teguh. Apakah ada preferensi tertentu atau paket yang ingin Anda pilih?"
+        "message": "Apakah spa tersebut termasuk paket pijat dan facial?",
+        "response": "Ya, spa kami menyediakan paket yang meliputi pijat dan facial. Apakah Anda tertarik dengan paket tersebut, Teguh?"
     },
     {
-        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
-        "response": "Resepsionis: Selamat sore, Teguh. Saya akan segera cek apakah pesanan layanan spa Anda sudah masuk atau belum. Permintaan Anda sudah tercatat, terima kasih."
+        "message": "Mohon konfirmasi jadwal dan harga layanan spa saya.",
+        "response": "Maaf, sebelumnya telah terjadi kesalahan. Maaf atas ketidaknyamanannya. Untuk konfirmasi jadwal dan harga layanan spa, tolong informasikan nomor kontak atau email agar kami dapat mengirimkan detailnya kepada Anda. Terima kasih."
     },
     {
-        "message": "Halo, saya Teguh. Bisa bantu saya?",
-        "response": "Resepsionis: Halo, Teguh. Ada yang bisa saya bantu?"
+        "message": "Selamat siang, saya Teguh. Saya ingin memesan layanan spa untuk relaksasi.",
+        "response": "Selamat siang, Teguh. Saya siap membantu Anda dalam memesan layanan spa untuk relaksasi. Apakah ada preferensi khusus atau waktu tertentu yang Anda inginkan?"
     },
     {
-        "message": "Saya ingin memesan layanan spa untuk besok sore.",
-        "response": "Resepsionis: Halo, Teguh. Tentu, saya siap membantu. Anda ingin memesan layanan spa untuk besok sore. Apakah telah memiliki preferensi tertentu atau paket yang ingin Anda pilih?"
+        "message": "Apakah spa tersebut termasuk paket pijat, facial dan layanan ++?",
+        "response": "Ya, kami menyediakan paket yang meliputi pijat, facial, dan layanan tambahan seperti sauna, body scrub, atau lainnya. Apakah Anda tertarik dengan paket tersebut, Teguh?"
     },
     {
-        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
-        "response": "Resepsionis: Selamat sore, Teguh. Saya akan segera cek apakah pesanan layanan spa Anda sudah masuk atau belum. Terima kasih telah memberikan informasinya."
+        "message": "Mohon konfirmasi jadwal dan harga layanan spa saya.",
+        "response": "Maaf, sebelumnya telah terjadi kesalahan. Maaf atas ketidaknyamanannya. Untuk konfirmasi jadwal dan harga layanan spa, tolong informasikan nomor kontak atau email agar kami dapat mengirimkan detailnya kepada Anda. Terima kasih."
+    },
+    {
+        "message": "Selamat siang, saya Teguh. Saya ingin memesan layanan spa untuk relaksasi.",
+        "response": "Selamat siang, Teguh. Saya siap membantu Anda dalam memesan layanan spa untuk relaksasi. Apakah ada preferensi khusus atau waktu tertentu yang Anda inginkan?"
+    },
+    {
+        "message": "Apakah spa tersebut termasuk paket pijat, facial dan layanan ++?",
+        "response": "Ya, kami menyediakan paket yang meliputi pijat, facial, dan layanan tambahan seperti sauna, body scrub, atau lainnya. Apakah Anda tertarik dengan paket tersebut, Teguh?"
+    },
+    {
+        "message": "Mohon konfirmasi jadwal dan harga layanan spa saya.",
+        "response": "Maaf, sebelumnya telah terjadi kesalahan. Maaf atas ketidaknyamanannya. Untuk konfirmasi jadwal dan harga layanan spa, tolong informasikan nomor kontak atau email agar kami dapat mengirimkan detailnya kepada Anda. Terima kasih."
     }
 ]

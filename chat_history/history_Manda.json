@@ -1,38 +1,50 @@
 [
     {
-        "message": "Halo, saya Manda. Bisa bantu saya?",
-        "response": "Resepsionis: Tentu, Manda. Ada yang bisa saya bantu?"
+        "message": "Hai, saya Manda. Saya ingin mengecek ketersediaan ruang pertemuan untuk rapat bisnis.",
+        "response": "Selamat pagi, Manda. Tentu, saya dapat membantu Anda mengecek ketersediaan ruang pertemuan untuk rapat bisnis. Silakan beritahu saya tanggal dan jam yang diinginkan untuk rapatnya."
     },
     {
-        "message": "Saya ingin memesan layanan spa untuk besok sore.",
-        "response": "Resepsionis: Ya, tentu. Boleh saya tahu jam berapa Anda ingin memesan layanan spa besok sore?"
+        "message": "Berapa kapasitas ruang pertemuan dan fasilitas yang disediakan?",
+        "response": "Kapasitas ruang pertemuan kami bervariasi tergantung jenis tata letaknya, namun bisa menampung antara 10 hingga 100 orang. Fasilitas standar yang kami sediakan meliputi LCD projector, layar proyektor, sound system, pena dan kertas, serta akses WiFi. Apakah ada kebutuhan khusus atau informasi lebih lanjut yang ingin Anda tanyakan, Manda?"
     },
     {
-        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
-        "response": "Resepsionis: Tentu, Manda. Saya akan segera memeriksa pesanan layanan spa Anda. Mohon tunggu sebentar ya."
+        "message": "Tolong konfirmasi reservasi ruang pertemuan saya untuk besok pagi.",
+        "response": "Tentu, saya akan segera mengkonfirmasi reservasi ruang pertemuan untuk Anda besok pagi, Manda. Terima kasih atas informasinya. Apakah ada kebutuhan tambahan atau permintaan khusus yang perlu saya sampaikan kepada departemen terkait?"
     },
     {
-        "message": "Halo, saya Manda. Bisa bantu saya?",
-        "response": "Resepsionis: Tentu, Manda. Ada yang bisa saya bantu?"
+        "message": "Hai, saya Manda. Saya ingin mengecek ketersediaan ruang pertemuan untuk rapat bisnis.",
+        "response": "Selamat pagi, Manda. Tentu, saya dapat membantu Anda mengecek ketersediaan ruang pertemuan untuk rapat bisnis. Silakan beritahu saya tanggal dan jam yang diinginkan untuk rapatnya."
     },
     {
-        "message": "Saya ingin memesan layanan spa untuk besok sore.",
-        "response": "Resepsionis: Tentu, Manda. Boleh saya tahu jam berapa Anda ingin memesan layanan spa besok sore?"
+        "message": "Berapa kapasitas ruang pertemuan dan fasilitas yang disediakan?",
+        "response": "Kapasitas ruang pertemuan kami bervariasi tergantung jenis tata letaknya, namun bisa menampung antara 10 hingga 100 orang. Fasilitas standar yang kami sediakan meliputi LCD projector, layar proyektor, sound system, pena dan kertas, serta akses WiFi. Apakah ada kebutuhan khusus atau informasi lebih lanjut yang ingin Anda tanyakan, Manda?"
     },
     {
-        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
-        "response": "Resepsionis: Tentu, Manda. Maafkan saya sebentar, saya akan segera memeriksa pesanan layanan spa Anda."
+        "message": "Tolong konfirmasi reservasi ruang pertemuan saya untuk besok pagi.",
+        "response": "Tentu, saya akan segera mengkonfirmasi reservasi ruang pertemuan untuk Anda besok pagi, Manda. Terima kasih atas informasinya. Apakah ada kebutuhan tambahan atau permintaan khusus yang perlu saya sampaikan kepada departemen terkait?"
     },
     {
-        "message": "Halo, saya Manda. Bisa bantu saya?",
-        "response": "Resepsionis: Tentu, Manda. Ada yang bisa saya bantu?"
+        "message": "Hai, saya Manda. Saya ingin mengecek ketersediaan ruang pertemuan untuk rapat bisnis.",
+        "response": "Selamat siang, Manda! Tentu, saya dapat membantu Anda mengecek ketersediaan ruang pertemuan untuk rapat bisnis. Silakan beritahu saya tanggal dan jam yang diinginkan untuk rapatnya."
     },
     {
-        "message": "Saya ingin memesan layanan spa untuk besok sore.",
-        "response": "Resepsionis: Tentu, Manda. Boleh saya tahu jam berapa Anda ingin memesan layanan spa besok sore?"
+        "message": "Berapa kapasitas ruang pertemuan dan fasilitas yang disediakan?",
+        "response": "Kapasitas ruang pertemuan kami bervariasi tergantung jenis tata letaknya, namun bisa menampung antara 10 hingga 100 orang. Fasilitas standar yang kami sediakan meliputi LCD projector, layar proyektor, sound system, pena dan kertas, serta akses WiFi. Apakah ada kebutuhan khusus atau informasi lebih lanjut yang ingin Anda tanyakan, Manda?"
     },
     {
-        "message": "Tolong konfirmasi apakah pesanan saya sudah masuk?",
-        "response": "Resepsionis: Tentu, Manda. Maafkan saya sebentar, saya akan segera memeriksa pesanan layanan spa Anda."
+        "message": "Tolong konfirmasi reservasi ruang pertemuan saya untuk besok pagi.",
+        "response": "Tentu, saya akan segera mengkonfirmasi reservasi ruang pertemuan untuk Anda besok pagi, Manda. Terima kasih atas informasinya. Apakah ada kebutuhan tambahan atau permintaan khusus yang perlu saya sampaikan kepada departemen terkait?"
+    },
+    {
+        "message": "Hai, saya Manda. Saya ingin mengecek ketersediaan ruang pertemuan untuk rapat bisnis.",
+        "response": "Selamat sore, Manda! Tentu, saya dapat membantu Anda mengecek ketersediaan ruang pertemuan untuk rapat bisnis. Silakan beritahu saya tanggal dan jam yang diinginkan untuk rapatnya."
+    },
+    {
+        "message": "Berapa kapasitas ruang pertemuan dan fasilitas yang disediakan?",
+        "response": "Kapasitas ruang pertemuan kami bervariasi tergantung jenis tata letaknya, namun bisa menampung antara 10 hingga 100 orang. Fasilitas standar yang kami sediakan meliputi LCD projector, layar proyektor, sound system, pena dan kertas, serta akses WiFi. Apakah ada kebutuhan khusus atau informasi lebih lanjut yang ingin Anda tanyakan, Manda?"
+    },
+    {
+        "message": "Tolong konfirmasi reservasi ruang pertemuan saya untuk besok pagi.",
+        "response": "Tentu, saya akan segera mengkonfirmasi reservasi ruang pertemuan untuk Anda besok pagi, Manda. Terima kasih atas informasinya. Apakah ada kebutuhan tambahan atau permintaan khusus yang perlu saya sampaikan kepada departemen terkait?"
     }
 ]

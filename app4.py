@@ -64,7 +64,7 @@ def chat():
     history = get_chat_history(user)
     history_text = "\n".join([f"{user}: {h['message']}\n{h['response']}" for h in history])
 
-    # Buat prompt dengan konteks percakapan sebelumnya
+    # Prompt dengan konteks percakapan sebelumnya
     prompt = f"""
     Anda adalah seorang resepsionis hotel yang membantu pelanggan dengan ramah dan profesional. Berikut adalah riwayat percakapan dengan {user}:
     
@@ -83,11 +83,11 @@ def chat():
     except Exception as e:
         return jsonify({"error": f"Gagal memproses chat: {str(e)}"}), 500
 
-    # Pastikan tidak ada "Resepsionis:" ganda
+    # Check Resepsionis Ganda
     if not bot_reply.startswith("Resepsionis:"):
-        bot_reply = f"Resepsionis: {bot_reply}"
+        bot_reply = f"{bot_reply}"
 
-    # Simpan chat tanpa menambahkan label lagi
+    # Simpan chat user
     save_chat(user, message, bot_reply)
 
     return jsonify({"reply": bot_reply})

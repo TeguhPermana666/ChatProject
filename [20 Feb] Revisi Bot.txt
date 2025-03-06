@@ -1,0 +1,10 @@
+Percakapannya lebih complex dari Chat user ke AI
+Booking tanggal waktu terhadap fitur yang mau di pesen
+
+Inteligence Resepsionist:
+Resepsionist melakukan ringkasan terhadap banyak user yg ngecht. 
+
+Digital identity: Vector database sebagai intisari sifat dan hard/sfot skill
+dari sebuah user sebagai file binary, mimik dll.
+
+
